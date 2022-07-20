@@ -1,0 +1,90 @@
+.container{
+    width: 1300px;
+    margin: auto;
+    outline: solid 1px red;
+}
+.flex-box{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+}
+.white{
+    display: flex;
+    justify-content: space-evenly;
+    height: 402px;
+    
+
+    
+}
+.red{
+   height: 200px;
+   outline: solid 2px;
+   display: flex;
+   justify-content: space-around;
+   
+}
+.blue{
+    display: flex;
+    flex-wrap: wrap;
+ }
+.blue .servics{
+        width: 33.33%;
+        flex-wrap: wrap;
+        height: 400px;
+        outline: solid 2px red;
+     }
+.voilet{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+}
+.black{
+    display: flex;
+    flex-wrap: wrap;
+}
+.black .image{
+    width: 33.33%;
+    height: 300px;
+    outline: solid 2px green;
+}   
+.pink{
+    height: 200px;
+     display: flex;
+     justify-content: space-around;
+     outline: solid 2px;
+}
+.green{
+    display: flex;
+    flex-wrap: wrap;
+}
+.green .underbox{
+     width: 50%;
+     flex-wrap: wrap;
+     height: 200px;
+     outline: solid 2px orange;
+}
+.readmore{
+    display: flex;
+    flex-wrap: wrap;
+}
+.readmore .red1{
+    width: 25%;
+    flex-wrap: wrap;
+    height: 150px;
+    outline: solid 2px blue;
+}
+.skyblue{
+    display: flex;
+    flex-wrap: wrap;
+}
+.skyblue .lightgreen{
+    width: 25%;
+
+    height: 160px;
+    outline: solid 2px mediumvioletred;
+}
+
+
+
+
+     

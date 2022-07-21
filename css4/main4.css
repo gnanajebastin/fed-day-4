@@ -1,0 +1,30 @@
+.container{
+    width: 1300px;
+    margin: auto;
+    outline: solid 2px green;
+}
+.doctor{
+    display: flex;
+    height: 40px;
+    justify-content: space-between;
+}
+.nurse{
+    display: flex;
+    height: 300px;
+    justify-content: center;
+}
+.director{
+    display: flex;
+    flex-wrap: wrap;
+}
+.director .gallery-img{
+    width: 25%;
+    height: 200px;
+    outline: solid 2px red;
+}
+.legalpage-flex{
+    display: flex;
+    height: 50px;
+    justify-content: center;
+}
+   
